@@ -1,0 +1,2 @@
+# constitution
+Constitution of honkworld
